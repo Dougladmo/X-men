@@ -1,3 +1,22 @@
-# X-men
+<h1 align="center"> X-MEN </h1>
 
-Finalizei recentemente o Projeto x-men para a semana do 0 ao programador contrato. Consiste em uma pagina de seleção de personagens do x-men, ao passar o mouse por cima da imagem da seleção muda a foto e a descrição ao lado conforme o personagens, se clicar na foto aparece um gif do personagem escolhido. foi usado HTML,CSS e JavaScript.
+<br>
+
+<p align="center">
+  <img alt="Projeto X-MEN" src=".github/preview.jpg" width="100%">
+</p>
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML e CSS
+- Git e Github
+- JavaScript
+
+## 💻 Projeto
+
+X-MEN é uma seleção de personagem dos x-men tendo descrição dos mesmo e gifs.
+
+- [Acesse o projeto finalizado, online](https://dougladmo.github.io/X-men/)
+
